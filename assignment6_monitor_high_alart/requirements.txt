@@ -1,0 +1,6 @@
+boto3
+datetime
+os
+logging
+BotoCoreError
+ClientError
